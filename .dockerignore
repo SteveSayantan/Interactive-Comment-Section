@@ -1,0 +1,8 @@
+.git
+.github
+.vscode
+.gitignore
+dist
+design
+node_modules
+README.md

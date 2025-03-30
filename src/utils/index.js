@@ -11,7 +11,7 @@ export const getImgURL=(name)=>{
 
     Note:
     ====
-    -> `../images/${name}`: the relative path to the image from this directory
+    -> `../images/${name}`: the relative path to the image from the directory where this function is being called
     -> import.meta.url : provides the base URL
 
     */

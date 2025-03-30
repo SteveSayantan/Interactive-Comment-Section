@@ -1,6 +1,6 @@
 # Interactive Comment Section
 
-This is an interactive comment section built using React and Context API. The project is scaffolded using Vite. Click [here](https://interactive-comment-frontendmentor.netlify.app/), for a quick tour.
+This is an interactive comment section built using React and Context API. The project is scaffolded using Vite. Click [here](https://stevesayantan.github.io/Interactive-Comment-Section/), for a quick tour.
 
 ## Features
 

@@ -5,4 +5,7 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   base:'/Interactive-Comment-Section/',
   plugins: [react()],
+  server:{
+    host:true
+  }
 })
